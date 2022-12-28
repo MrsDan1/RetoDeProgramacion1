@@ -1,6 +1,4 @@
-
 //Pondré comentarios para que yo mismo no me confunda luego jsjsjsjs
-
 //declaramos variables
 const btnEncriptar = document.querySelector(".btnEncriptar");
 const btnDecencriptar = document.querySelector(".btnDecencriptar");
